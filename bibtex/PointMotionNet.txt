@@ -1,0 +1,8 @@
+@InProceedings{Wang_2022_CVPR,
+    author    = {Wang, Jun and Li, Xiaolong and Sullivan, Alan and Abbott, Lynn and Chen, Siheng},
+    title     = {PointMotionNet: Point-Wise Motion Learning for Large-Scale LiDAR Point Clouds Sequences},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2022},
+    pages     = {4419-4428}
+}

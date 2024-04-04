@@ -1,0 +1,8 @@
+@inproceedings{wang22n_interspeech,
+  author={Jun Wang},
+  title={{ESSumm: Extractive Speech Summarization from Untranscribed Meeting}},
+  year=2022,
+  booktitle={Proc. Interspeech 2022},
+  pages={3243--3247},
+  doi={10.21437/Interspeech.2022-945}
+}
